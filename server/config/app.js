@@ -1,3 +1,5 @@
+// COMP229-F2020-MidtermTest, Nguyen Khang Nguyen, 301098234, 10/29/2020
+
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');
